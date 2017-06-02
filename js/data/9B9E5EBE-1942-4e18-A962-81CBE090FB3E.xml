@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("3.2.2.1:2", "", "Asignar Acceso", "EARoot/EA3/EA2/EA2/EA1/EA303.html", "7.png", "289", "0", "", "UseCase0","{D3AE0F45-837D-4e0f-B198-BF9507341593}");
+tocTab[tocTab.length] = new Array("3.2.2.1:3", "", "Crear Acceso", "EARoot/EA3/EA2/EA2/EA1/EA304.html", "7.png", "287", "0", "", "UseCase0","{CBCF8DF2-B0B0-49ad-86D6-6FD8DC05E9A1}");
+tocTab[tocTab.length] = new Array("3.2.2.1:4", "", "Editar Acceso", "EARoot/EA3/EA2/EA2/EA1/EA305.html", "7.png", "288", "0", "", "UseCase0","{423506FB-D8FB-467b-A360-78B2FA8FB960}");
+tocTab[tocTab.length] = new Array("3.2.2.1:1", "", "Acceso", "EARoot/EA3/EA2/EA2/EA1/EA301.html", "180.png", "51", "289", "", "Use Case diagram0","{9DB59D20-F644-4a8f-9FC3-1284C64CE2CF}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.2.2.14:1", "", "Sede", "EARoot/EA3/EA2/EA2/EA14/EA365.html", "180.png", "45", "0", "", "Use Case diagram0","{CE23B56D-2093-4a11-858E-1600961178BB}");
+tocTab[tocTab.length] = new Array("3.2.2.14:2", "", "Crear Sede", "EARoot/EA3/EA2/EA2/EA14/EA367.html", "7.png", "264", "0", "", "UseCase0","{0322F8EE-E11C-4c42-A7EB-B3D5C2CC3B9B}");
+tocTab[tocTab.length] = new Array("3.2.2.14:3", "", "Editar Sede", "EARoot/EA3/EA2/EA2/EA14/EA368.html", "7.png", "265", "0", "", "UseCase0","{B2CF0653-624E-4c5b-839C-A28DD82913E2}");

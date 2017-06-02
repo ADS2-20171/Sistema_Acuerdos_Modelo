@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.2.2.7:1", "", "Categoria Consejo", "EARoot/EA3/EA2/EA2/EA7/EA335.html", "180.png", "57", "0", "", "Use Case diagram0","{94082D34-B091-4ccc-B3A5-AADE14FA58FC}");
+tocTab[tocTab.length] = new Array("3.2.2.7:2", "", "Crear Categoria Consejo", "EARoot/EA3/EA2/EA2/EA7/EA337.html", "7.png", "322", "0", "", "UseCase0","{B1D86590-4C66-4f82-AF02-9EC31DCBB5B4}");
+tocTab[tocTab.length] = new Array("3.2.2.7:3", "", "Editar Categoria Consejo", "EARoot/EA3/EA2/EA2/EA7/EA338.html", "7.png", "323", "0", "", "UseCase0","{54CC416C-D26A-43ce-A149-00791346C470}");

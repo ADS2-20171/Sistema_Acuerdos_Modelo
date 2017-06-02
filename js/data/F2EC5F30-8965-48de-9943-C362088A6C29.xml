@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("2.2.1:1", "", "Asigne requisitos funcionales a los casos de uso y a los objetos del dominio", "EARoot/EA2/EA2/EA1/EA157.html", "21.png", "70", "0", "", "Activity0","{CA0AA735-EEB9-4309-99A1-6F2F5307E5F7}");
+tocTab[tocTab.length] = new Array("2.2.1:2", "", "Cree rápidamente algún prototipo del nuevo sistema propuesto", "EARoot/EA2/EA2/EA1/EA158.html", "21.png", "68", "0", "", "Activity0","{D156CFBE-4522-4177-B7D5-9D15EF556FE1}");
+tocTab[tocTab.length] = new Array("2.2.1:3", "", "Dibuje el modelo de dominio", "EARoot/EA2/EA2/EA1/EA159.html", "21.png", "71", "0", "", "Activity0","{9EEB5901-E5AE-4ea4-942F-E6A992564A07}");
+tocTab[tocTab.length] = new Array("2.2.1:4", "", "Escriba los primeros borradores de casos de uso", "EARoot/EA2/EA2/EA1/EA160.html", "21.png", "63", "0", "", "Activity0","{761CC46D-42DD-4767-B374-8CF09FB536C6}");
+tocTab[tocTab.length] = new Array("2.2.1:5", "", "Identificar casos de uso, y ponerlos en los diagramas de casos de uso.", "EARoot/EA2/EA2/EA1/EA161.html", "21.png", "67", "0", "", "Activity0","{87CAE499-E939-4ae8-87C8-B43E84664D27}");
+tocTab[tocTab.length] = new Array("2.2.1:6", "", "Identificar objetos del dominio del mundo real", "EARoot/EA2/EA2/EA1/EA162.html", "21.png", "65", "0", "", "Activity0","{267B4B3C-4E68-4834-9C03-9D1A2F08C900}");
+tocTab[tocTab.length] = new Array("2.2.1:7", "", "Organizar lógicamente los casos de uso en grupos. Capturar esta información en un diagrama de paquetes.", "EARoot/EA2/EA2/EA1/EA163.html", "21.png", "66", "0", "", "Activity0","{B4516605-AE26-4c6e-A39C-11EBCF98A344}");
+tocTab[tocTab.length] = new Array("2.2.1:8", "", "Reunir información acerca del sistema legacy al que esta realizando re ingeniería", "EARoot/EA2/EA2/EA1/EA164.html", "21.png", "64", "0", "", "Activity0","{9125F1ED-C1AA-4a57-90C6-12B756315B85}");
+tocTab[tocTab.length] = new Array("2.2.1:9", "", "Pantallas", "EARoot/EA2/EA2/EA1/EA165.html", "107.png", "60", "64", "", "ObjectNode0","{8EA4603F-7BE6-4f1a-8E74-6D01FAF44FCE}");
+tocTab[tocTab.length] = new Array("2.2.1:10", "", "Tablas de base de datos", "EARoot/EA2/EA2/EA1/EA166.html", "107.png", "59", "64", "", "ObjectNode0","{51AEE314-7EE1-4a86-B8EB-1F95686595AB}");
+tocTab[tocTab.length] = new Array("2.2.1:11", "", "", "EARoot/EA2/EA2/EA1/EA167.html", "107.png", "61", "65", "", "ObjectNode0","{5BAC58B7-F2A9-41fa-B5DA-E44D40DBEFD3}");
+tocTab[tocTab.length] = new Array("2.2.1:12", "", "", "EARoot/EA2/EA2/EA1/EA168.html", "107.png", "62", "68", "", "ObjectNode0","{09A50953-056F-4765-B6E2-46FEDBE5D767}");

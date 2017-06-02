@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.2.2.13:1", "", "Persona", "EARoot/EA3/EA2/EA2/EA13/EA361.html", "180.png", "49", "0", "", "Use Case diagram0","{1B1DE1F3-988D-4813-9D76-DFF81555124E}");
+tocTab[tocTab.length] = new Array("3.2.2.13:2", "", "Crear Persona", "EARoot/EA3/EA2/EA2/EA13/EA363.html", "7.png", "280", "0", "", "UseCase0","{B89F49EF-88C6-46fa-9905-B4049F795156}");
+tocTab[tocTab.length] = new Array("3.2.2.13:3", "", "Editar Persona", "EARoot/EA3/EA2/EA2/EA13/EA364.html", "7.png", "281", "0", "", "UseCase0","{95BE4664-08D6-444a-8EF1-8ED4ACA9D86A}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.2.2.3:1", "", "Area no Academica", "EARoot/EA3/EA2/EA2/EA3/EA310.html", "180.png", "48", "0", "", "Use Case diagram0","{362861D0-F167-480c-8D93-29C8627372F3}");
+tocTab[tocTab.length] = new Array("3.2.2.3:2", "", "Crear Area no Academica", "EARoot/EA3/EA2/EA2/EA3/EA312.html", "7.png", "276", "0", "", "UseCase0","{8C16AC9E-6253-4b6b-836B-BBC4ACA053F9}");
+tocTab[tocTab.length] = new Array("3.2.2.3:3", "", "Editar Area no Academica", "EARoot/EA3/EA2/EA2/EA3/EA313.html", "7.png", "277", "0", "", "UseCase0","{4C96B653-7FA4-4bce-A089-7C4C454525AD}");

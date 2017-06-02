@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.2.2.6:1", "", "Cargo", "EARoot/EA3/EA2/EA2/EA6/EA330.html", "180.png", "53", "0", "", "Use Case diagram0","{663D99BE-6AC6-4d69-B368-1B8BEB071F10}");
+tocTab[tocTab.length] = new Array("3.2.2.6:2", "", "Crear Cargo", "EARoot/EA3/EA2/EA2/EA6/EA333.html", "7.png", "296", "0", "", "UseCase0","{C2ACBBC1-219E-4d0c-803E-32CD54F3CF77}");
+tocTab[tocTab.length] = new Array("3.2.2.6:3", "", "Editar Cargo", "EARoot/EA3/EA2/EA2/EA6/EA334.html", "7.png", "297", "0", "", "UseCase0","{4FE57025-FD82-4044-B165-60290680F680}");

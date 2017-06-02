@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("3.2:1", "", "Paquetes de casos de uso", "EARoot/EA3/EA2/EA239.html", "180.png", "22", "0", "", "Use Case diagram0","{31C1CA57-A5C9-4d04-B37B-3C4873480BD1}");
+tocTab[tocTab.length] = new Array("3.2.1", "1", "Apertura de acuerdos", "EARoot/EA3/EA2/EA243.html", "4.png", "", "", "{78656362-E00A-4628-B2B0-CD3E1C7489FF}", "Package");
+tocTab[tocTab.length] = new Array("3.2.2", "1", "Configuracion", "EARoot/EA3/EA2/EA241.html", "4.png", "", "", "{602593A6-DC63-4f3c-9C87-29F33FB61055}", "Package");
+tocTab[tocTab.length] = new Array("3.2.3", "1", "Gestion de Acuerdos", "EARoot/EA3/EA2/EA242.html", "4.png", "", "", "{A4ED011B-8CC6-4b60-8F23-01B7788098E9}", "Package");
+tocTab[tocTab.length] = new Array("3.2.4", "1", "Gestion de consejos", "EARoot/EA3/EA2/EA244.html", "4.png", "", "", "{D70D299F-392F-4ee8-B0BB-F59B2A92656A}", "Package");
